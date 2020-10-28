@@ -11,12 +11,29 @@ body{
     justify-content: center;
     margin: 12%;
 }
- .items a{
+a{
     color:#fff; 
     font-size:40px;
-    text-decoration: none;
+    text-decoration: none; 
 } 
  p{
     font-family: 'Questrial', sans-serif;
     font-size:40px;
 }
+button {
+    padding: 0.35em 1.2em;
+    border: 0.1em solid #FFFFFF;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    color: #FFFFFF;
+    text-align: center;
+    transition: all 0.7s;
+    background-color: transparent;
+}
+
+button:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
