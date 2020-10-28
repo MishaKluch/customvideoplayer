@@ -15,6 +15,10 @@ body {
   margin: 0;
 }
 
+.return a{
+  color:#fff;
+}
+
 h1 {
   color: #fff;
 }
@@ -73,3 +77,5 @@ h1 {
     width: 90%;
   }
 }
+
+
